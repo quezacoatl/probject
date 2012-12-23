@@ -67,8 +67,8 @@ Windows does not work for two reasons - no UNIX sockets and no forking implement
 
 _supported_
 
-  * MRI (1.9+) on UNIX
+  * MRI (1.9+) on *NIX
 
 __License__
 
-Released under the MIT License. See `LICENSE.txt`.
+Released under the MIT License. See LICENSE.txt.
